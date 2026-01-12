@@ -35,7 +35,7 @@
 - Kurdish
 
 ## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN](https://github.com/7waismuradi-web)
 - 📧 Email:7waismuradi@gmail.com
 
 ---
